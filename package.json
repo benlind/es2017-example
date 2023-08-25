@@ -1,0 +1,12 @@
+{
+  "name": "es2017-example",
+  "version": "1.0.0",
+  "description": "Example repo that uses ES2017 features, which you can use to test that your bundler is transpiling things correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Lind",
+  "license": "ISC"
+}

@@ -1,7 +1,7 @@
-async function exampleAsync () {
+export async function exampleAsync () {
   console.log('hello pikachu')
 }
 
-async function exampleAwait () {
+export async function exampleAwait () {
   await exampleAsync()
 }
